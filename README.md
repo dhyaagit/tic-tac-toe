@@ -15,7 +15,7 @@ A simple two-player Tic-Tac-Toe game built in C for the terminal.
 gcc main.c -o tictactoe
 ./tictactoe
 ```
-##📌 Example Output
+## 📌 Example Output
 
 X | O | 3
 ---------
