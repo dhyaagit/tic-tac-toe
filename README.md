@@ -17,10 +17,10 @@ gcc main.c -o tictactoe
 ```
 ## 📌 Example Output
 
-X | O | 3
+X | O |  
 ---------
-4 | X | 6
+O | X |   
 ---------
-O | 8 | X
+  |   | X
 
 Player X wins!
