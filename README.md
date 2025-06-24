@@ -1,4 +1,4 @@
-# Tic-Tac-Toe (C)
+# Tic-Tac-Toe 
 
 A simple two-player Tic-Tac-Toe game built in C for the terminal.
 
