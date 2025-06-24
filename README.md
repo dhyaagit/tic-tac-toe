@@ -15,12 +15,12 @@ A simple two-player Tic-Tac-Toe game built in C for the terminal.
 gcc main.c -o tictactoe
 ./tictactoe
 ```
-## 📌 Example Output
+## 📌 Example Output  
 
-X | O |  
+X | O | 3
 ---------
-O | X |   
+4 | X | 6
 ---------
-  |   | X
+O | 8 | X
 
 Player X wins!
